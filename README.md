@@ -3,13 +3,13 @@
 ## What is the Use of This Repo
 This App is a Simple Angular 6 and Springboot 2 App which uses
 
-* Angular 6
+1. Angular 6
  * Angular Components
  * HTTP Client
  * Angular Routing
  * Services
  * Very Basic Bootstrap
-* SpringBoot 2
+2. SpringBoot 2
  * Springboot RestController
  * Service, Repository(DAO) from Spring Framework
  * Autowiring is used as well to inject the Dependencies
