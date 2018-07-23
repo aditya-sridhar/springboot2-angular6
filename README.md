@@ -75,6 +75,14 @@ mvn spring-boot:run
 
 The Application runs on **localhost:8080** and the application runs in a embedded container in local
 
+## Folder Structure
+
+**client** : This has the Client Code implemented using Angular 6
+
+**server** : This has the Springboot code
+
+**pom.xml** : This is multimodule pom. This pom in turn executes the pom within the client and the server folders
+
 ## Application Design
 
 ### Angular 6
